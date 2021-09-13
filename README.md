@@ -1,2 +1,3 @@
 # hello-world
-A github repository.
+
+Hello, I like video games!
